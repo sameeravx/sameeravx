@@ -36,6 +36,9 @@
 #### 🏥 Health Discovery+ – [Synapxe, SG]
 > Remote health monitoring platform – .NET Core, Angular, SQL, Docker, Azure, ADO.NET, Quartz
 
+#### 📄 2048 Game – [Click here to play](https://sameeravx.github.io/2048)
+> JavaScript, Web Development
+
 ---
 
 ### 📊 GitHub Stats

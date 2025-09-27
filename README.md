@@ -5,7 +5,7 @@
 📊 DevOps, CI/CD | xUnit, Karma | Microservices | Clean Architecture  
 🛠️ Passionate about building scalable, secure, and testable enterprise systems
 
-🔗 [Portfolio](https://sameeravx.github.io) | [LinkedIn](https://www.linkedin.com/in/sameeravx)
+🔗 [Portfolio](https://sameeravx.github.io) | [LinkedIn](https://www.linkedin.com/in/sameeravx) | [Developments](https://sameeravx.github.io/works)
 
 ---
 

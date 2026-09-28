@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Sameera Liyanage
 
-🚀 Technical Lead & Senior Software Engineer with over 10 years of experience  
-🔧 Tech Stack: C#, .NET Core, Angular, Azure, Docker, Kubernetes, SQL  
+🚀 Technical Lead & Senior Software Engineer with over 11 years of experience  
+🔧 Tech Stack: AI, C#, .NET Core, Angular, Azure, Docker, Kubernetes, SQL  
 📊 DevOps, CI/CD | xUnit, Karma | Microservices | Clean Architecture  
 🛠️ Passionate about building scalable, secure, and testable enterprise systems
 
@@ -11,20 +11,19 @@
 
 ### 🧰 Tech Toolbox
 
-- **Programming**: C# (.NET), JavaScript, Typescript, Razor, Java  
-- **Frontend Technologies**: Angular, NgRx, React JS, jQuery, HTML 5, CSS 3, Ajax, Bootstrap, JSON  
-- **C# / .NET Stack**: .NET, .NET Core, Web API, ASP.NET, ASP.NET MVC, Dapper, Quartz.NET, WCF, WPF, Web Forms, Entity Framework, LINQ, ADO.NET, Win Forms  
-- **Databases**: SQL, SQL Server, SSRS, PostgreSQL, MySQL, MongoDB  
-- **Clouds**: Microsoft Azure, AWS  
-- **Development Tools**: Visual Studio, VS Code, SQL Management Studio, SQL Profiler, Azure Data Studio  
-- **Messaging / Event Streaming**: Microsoft Azure Event Hubs, Kafka, RabbitMQ  
-- **Management Tools**: Azure DevOps, TFS, GIT, VSTS, Swagger, Postman, OpenAPI, CI/CD Pipelines  
-- **Development Styles**: Microservices, Micro Frontend, MVC, Monolithic, EDD, DDD, Clean Architecture, SOA  
-- **Containerization Tools**: Docker, Kubernetes  
-- **Testing Frameworks**: NUnit, xUnit, Karma, Jasmine, MSTest, Selenium, SonarQube  
-- **Soft Skills**: Analytical & Problem Solving, Communication & Stakeholder Collaboration, Continuous Learning,  
-  Software Testing & Optimization, Debugging, Documentation & Deployments, Troubleshooting,  
-  Cross-Browser Testing & Version Control, Teamwork & Agile/Scrum Collaboration
+- **AI Technologies**: OpenAI API, AI-powered applications, Prompt Engineering, ChatGPT, Claude Code, Codex, GitHub Copilot, Devin
+- **Programming**: C# (.NET), JavaScript, Typescript, Razor, Java
+- **Frontend Technologies**:	Angular, NgRx, React JS, jQuery, HTML 5, CSS 3, Ajax, Bootstrap, JSON
+- **C# / .NET Stack**: NET, .NET Core, Web API, ASP.NET, ASP.NET MVC, Dapper, Quartz.NET, WCF, WPF, Web Forms, Entity Framework, LINQ, ADO.NET, Win Forms
+- **Databases**: SQL, SQL Server, SSRS, PostgreSQL, MySQL, MongoDB
+- **Clouds**:	Microsoft Azure, AWS
+- **Development Tools**: Visual Studio, VS Code, SQL Management Studio, SQL Profiler
+- **Messaging / Event Streaming**: Microsoft Azure Event Hubs, Kafka, RabbitMQ
+- **Management Tools**: Azure DevOps, TFS, GIT, VSTS, Swagger, Postman, OpenAPI, CI/CD Pipelines
+- **Development Styles**: Microservices, Micro Frontend, MVC, Monolithic, EDD, DDD, Clean Architecture, SOA
+- **Containerization Tools**: Docker, Kubernetes
+- **Testing Frameworks**: NUnit, xUnit, Karma, Jasmine, MSTest, Selenium, SonarQube
+- **Soft Skills**: Analytical & Problem Solving, Communication & Stakeholder Collaboration, Continuous Learning, Software Testing & Optimization, Debugging, Documentation & Deployments, Troubleshooting
 
 ---
 
@@ -43,10 +42,11 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameeravx&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sameeravx&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameeravx&layout=compact&theme=dark)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=sameeravx&layout=compact&theme=dark)
 
+[![AI](https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white)]()
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)]()
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]()
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
